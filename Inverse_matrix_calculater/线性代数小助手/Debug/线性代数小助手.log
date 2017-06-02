@@ -1,0 +1,21 @@
+﻿  code.c
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(83): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(89): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(95): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(101): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(77): warning C4101: “Aij”: 未引用的局部变量
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(140): warning C4047: “函数”:“int *”与“int [6][6]”的间接级别不同
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(140): warning C4024: “getA”: 形参和实参 1 的类型不同
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(148): warning C4047: “函数”:“int *”与“int [6][6]”的间接级别不同
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(148): warning C4024: “getAij”: 形参和实参 1 的类型不同
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(148): warning C4047: “函数”:“int *”与“int [5][5]”的间接级别不同
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(148): warning C4024: “getAij”: 形参和实参 2 的类型不同
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(151): warning C4047: “函数”:“int *”与“int [5][5]”的间接级别不同
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(151): warning C4024: “getA”: 形参和实参 1 的类型不同
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(180): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(180): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(180): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(180): note: 此参数用作缓冲区大小
+c:\users\samsung\desktop\线性代数小助手\线性代数小助手\code.c(123): warning C4101: “antimatrix”: 未引用的局部变量
+  线性代数小助手.vcxproj -> C:\Users\samsung\Desktop\线性代数小助手\Debug\线性代数小助手.exe
+  线性代数小助手.vcxproj -> C:\Users\samsung\Desktop\线性代数小助手\Debug\线性代数小助手.pdb (Full PDB)
