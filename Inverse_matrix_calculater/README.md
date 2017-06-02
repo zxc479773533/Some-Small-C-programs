@@ -1,4 +1,4 @@
-# Inverse-matrix-calculater
+# Inverse matrix calculater
 
 ### 行列式和逆矩阵计算器<br/>2017.3.7完成
 
