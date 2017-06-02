@@ -1,0 +1,11 @@
+﻿  snake.c
+f:\个人project\c程序\snake\snake\snake.c(47): warning C4087: “clock”: 用“void”参数列表声明
+f:\个人project\c程序\snake\snake\snake.c(131): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+f:\个人project\c程序\snake\snake\snake.c(182): warning C4087: “clock”: 用“void”参数列表声明
+f:\个人project\c程序\snake\snake\snake.c(240): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\个人project\c程序\snake\snake\snake.c(315): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  snake.vcxproj -> F:\个人project\C程序\snake\Debug\snake.exe
+  snake.vcxproj -> F:\个人project\C程序\snake\Debug\snake.pdb (Full PDB)
