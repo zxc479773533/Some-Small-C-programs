@@ -1,2 +1,2 @@
 # Some-Small-C-programs
-Some simple games or tools
+### Here are ome simple games or tools written by myself.
